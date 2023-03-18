@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\kv_yr.props" />
+</Project>
